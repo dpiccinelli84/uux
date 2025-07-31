@@ -1,0 +1,79 @@
+/* Stile generale del contenitore dell'app */
+.container {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Occupa tutta l'altezza dello schermo */
+  text-align: center;
+}
+
+/* Intestazione (header) */
+.header {
+  padding: 1rem;
+}
+
+.header h1 {
+  font-size: 2rem; /* Testo grande per il titolo */
+  color: #333;
+}
+
+/* Contenuto principale */
+.main-content {
+  flex-grow: 1; /* Occupa tutto lo spazio disponibile */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Centra verticalmente */
+  align-items: center; /* Centra orizzontalmente */
+  padding: 2rem;
+}
+
+.main-content h2 {
+  font-size: 2.5rem; /* Ancora più grande per il benvenuto */
+  margin-bottom: 1rem;
+}
+
+.main-content p {
+  font-size: 1.5rem; /* Testo del paragrafo leggibile */
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+/* Pulsante di avvio */
+.start-button {
+  font-size: 2rem; /* Testo grande */
+  padding: 1.5rem 3rem; /* Spaziatura interna generosa */
+  border: none;
+  background-color: #007bff; /* Un blu amichevole */
+  color: white;
+  border-radius: 10px; /* Angoli arrotondati */
+  cursor: pointer;
+}
+
+/* Navigazione in basso */
+.footer-nav {
+  display: flex;
+  justify-content: space-around; /* Spazio equo tra gli elementi */
+  padding: 1rem 0;
+  border-top: 1px solid #ccc;
+  background-color: #f8f8f8;
+}
+
+.nav-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #888;
+}
+
+.nav-item.active {
+  color: #007bff; /* Colore per l'elemento attivo */
+}
+
+.nav-item span {
+  font-size: 2rem; /* Icone grandi */
+}
+
+.nav-item p {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+}

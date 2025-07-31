@@ -1,0 +1,50 @@
+# Progetto UUXD 2025: FRTR - From Reluctance To Routine
+
+FRTR è il progetto di design/redesign di un sito web / applicazione web / app mobile / applicazione desktop rivolto a un pubblico molto specifico che deve usare il tuo strumento ma è sospettoso o spaventato e ha bisogno di costruire un rapporto di fiducia.
+
+## Comprendere il Pubblico
+
+Comprendere il proprio pubblico e rispondere a un'esigenza o a un obiettivo specifico è la chiave per un prodotto di successo.
+
+*   I prodotti (incluse applicazioni, app mobili e siti web) hanno successo se sono progettati per un pubblico chiaramente compreso e specifico.
+*   I prodotti "forzati" sono quelli che rappresentano l'unica scelta disponibile per svolgere un compito in formato digitale. Hanno successo se vengono percepiti come validi e preferibili allo svolgimento dello stesso compito a mano. Ciò significa renderli chiaramente comprensibili a un pubblico specifico.
+
+L'impatto (dato da parole, immagini, layout) è il mezzo principale per comunicare le ragioni e i modi per utilizzare il tuo prodotto con profitto.
+
+## Brief di Progetto
+
+*   **Il Cliente:** Una grande amministrazione pubblica che fornisce un portale online per i cittadini (es. anziani per gestire sanità, pensioni e altri servizi).
+*   **Il Problema:** Nonostante l'utilità della piattaforma, molti utenti la evitano a causa di ansia digitale e scarsa familiarità. Questo porta a un aumento dei costi per l'assistenza di persona e a ritardi nell'accesso ai servizi.
+*   **L'Obiettivo:** Il cliente cerca una soluzione che trasformi lo strumento in un'esperienza intuitiva e responsabilizzante, aiutando gli utenti a sviluppare una fiducia digitale a lungo termine. Il tuo compito è migliorare l'esperienza utente di tale servizio esistente.
+*   **Il Tuo Compito:** Ogni progetto identificherà una situazione specifica, in un dominio specifico e per un pubblico molto specifico, e creerà un sito web / applicazione web / app mobile / applicazione desktop che supporti le esigenze, gli obiettivi e i compiti specifici di questo pubblico.
+
+## Requisiti di Progettazione
+
+*   Lo strumento deve integrare informazioni chiare con servizi accessibili, progettati per guidare gli utenti dall'esitazione iniziale a un uso regolare e sicuro.
+*   Il redesign dovrebbe ridurre l'attrito, infondere fiducia e favorire un senso di progresso, incoraggiando un'interazione sostenuta con lo strumento.
+*   Sarà importante una comprensione attenta ed empatica delle loro caratteristiche specifiche.
+*   Puoi scegliere tra domini, compiti e tipi di utenti suggeriti, oppure proporne di tuoi.
+
+## Proporre un Progetto Personale
+
+Puoi suggerire un dominio, un compito e un pubblico per la tua applicazione, a patto di seguire questi passaggi:
+*   Affronta un dominio molto specifico (e specificato).
+*   Affronta uno o alcuni compiti molto specifici (e specificati).
+*   Si rivolge a un pubblico molto specifico, ben identificato e descritto.
+*   Dimostra che il pubblico non è libero di usare uno strumento diverso.
+*   Dimostra che hai fatto del tuo meglio per studiare, capire ed entrare in empatia con questo pubblico. Devi valutare quanto bene ci sei riuscito.
+*   Deve fornire chiaramente un messaggio per aiutare/convincere/assistere quel tipo specifico di utente a usarlo per svolgere i compiti.
+*   Il pubblico non sta ancora usando il tuo strumento ed è scettico. Devi informarlo della sua esistenza, utilità e adeguatezza.
+*   Cerca di andare oltre i siti informativi, i social network e gli strumenti di e-commerce.
+
+## Criteri di Valutazione
+
+Il tuo progetto sarà valutato sulla base di sette criteri (5 punti ciascuno, per un totale di 35):
+
+1.  **Rilevanza:** Il progetto affronta i problemi giusti?
+2.  **Coerenza:** Quanto bene si inserisce il progetto rispetto a servizi esterni simili? È internamente coerente?
+3.  **Efficacia:** Il tuo redesign sta raggiungendo i suoi obiettivi?
+4.  **Fattibilità:** Quanto bene vengono utilizzate le risorse?
+5.  **Impatto:** Quali differenze fa il progetto?
+6.  **Sostenibilità:** I benefici dureranno?
+7.  **Persuasività:** Il tuo design è in definitiva convincente?

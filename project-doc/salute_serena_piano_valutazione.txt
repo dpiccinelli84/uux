@@ -1,0 +1,30 @@
+### **Piano di Valutazione per "Salute Serena"**
+
+**1. Ispezione del Prototipo (Heuristic Analysis)**
+
+*   **Obiettivo:** Identificare i problemi di usabilità più evidenti prima di andare dagli utenti.
+*   **Metodo:** Il team di progettazione (cioè noi) navigherà il prototipo di "Salute Serena" impersonando Franco. Per ogni schermata, ci porremo queste domande (basate sulle euristiche di Nielsen):
+    *   **Visibilità dello stato del sistema:** È sempre chiaro a che punto del processo si trova l'utente? (Es. "Passo 1 di 4").
+    *   **Corrispondenza tra sistema e mondo reale:** Il linguaggio è semplice e familiare per Franco? Le icone sono intuitive?
+    *   **Controllo e libertà dell'utente:** Franco può facilmente tornare indietro se sbaglia? (Es. pulsante "Indietro, voglio modificare").
+    *   **Prevenzione degli errori:** Il design previene gli errori? (Es. la scansione del QR code evita errori di digitazione).
+    *   **Aiuto e documentazione:** Le istruzioni sono chiare e facili da trovare? (Es. sezione "Aiuto").
+*   **Output:** Un documento che elenca i potenziali problemi e i suggerimenti per correggerli.
+
+**2. Test di Usabilità con Utenti Reali**
+
+*   **Obiettivo:** Verificare se gli utenti reali (simili a Franco) riescono a completare il compito di prenotazione con successo, soddisfazione e senza frustrazione.
+*   **Reclutamento:**
+    *   Recluteremo 4-5 persone con più di 70 anni.
+    *   Cercheremo di avere un mix: 2-3 "Nonni Connessi" (che usano già WhatsApp) e 2 "Isolati Prudenti" (che non hanno quasi mai usato uno smartphone, magari con l'aiuto di un familiare nella fase iniziale).
+*   **Compito (Task):**
+    *   Daremo loro uno smartphone con il prototipo di "Salute Serena" e una finta ricetta medica.
+    *   Il compito sarà: "**Immagini che il suo medico le abbia dato questa ricetta. Usi questa applicazione per prenotare la visita.**"
+*   **Metriche di Successo (Cosa misuriamo):**
+    *   **Tasso di Successo:** L'utente è riuscito a completare la prenotazione? (Sì/No).
+    *   **Tempo sul Compito:** Quanto tempo ci ha impiegato?
+    *   **Numero di Errori:** Quante volte ha cliccato sul pulsante sbagliato o ha avuto bisogno di aiuto?
+    *   **Soddisfazione (Questionario Post-Test):** Chiederemo di dare un voto da 1 a 5 a queste affermazioni:
+        *   "L'applicazione è stata facile da usare."
+        *   "Mi sono sentito sicuro/a durante la prenotazione."
+        *   "Userei volentieri questa applicazione in futuro."

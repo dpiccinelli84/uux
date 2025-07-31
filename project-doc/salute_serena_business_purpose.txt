@@ -1,0 +1,19 @@
+### **Business Purpose di "Salute Serena"**
+
+*   **Il Cliente:** L'**Azienda Sanitaria Locale (ASL) di Bologna**. È un'organizzazione pubblica, complessa, con un budget da usare con saggezza. Ha già un portale web (il CUP online), ma è obsoleto e difficile da usare per il target anziano.
+*   **Obiettivi del Prodotto (Cosa vuole ottenere l'ASL):**
+    1.  **Ridurre i costi:** Diminuire drasticamente il numero di persone che si recano agli sportelli fisici, liberando personale per compiti a maggior valore aggiunto.
+    2.  **Aumentare l'efficienza:** Ridurre il carico di lavoro dei centralini telefonici e degli sportelli.
+    3.  **Migliorare il servizio:** Offrire ai cittadini anziani un accesso più rapido e autonomo alle prenotazioni, riducendo i tempi di attesa e l'ansia.
+    4.  **Promuovere l'inclusione digitale:** Trasformare un obbligo (la prenotazione) in un'opportunità per rendere i cittadini più anziani sicuri nell'uso degli strumenti digitali.
+*   **Obiettivi di Business (Come si integra nella strategia generale):**
+    *   Il progetto si allinea con le direttive nazionali e regionali sulla digitalizzazione della sanità pubblica.
+    *   Migliora l'immagine dell'ASL, mostrandola come un'entità moderna e attenta ai bisogni dei suoi cittadini più fragili.
+*   **Identità del Brand:**
+    *   "Salute Serena" deve comunicare **fiducia, semplicità e cura**. Il design (colori, logo, linguaggio) deve essere rassicurante e professionale, un'estensione digitale del servizio sanitario, non un'app tecnologica fredda.
+*   **Metriche di Successo (Come misuriamo i risultati):**
+    *   **Entro 6 mesi dal lancio:**
+        *   **-30%** di accessi agli sportelli fisici per prenotazioni di routine.
+        *   **+50%** di prenotazioni online da parte di utenti over 70.
+        *   **-20%** di chiamate al call center per la stessa ragione.
+        *   Un punteggio di soddisfazione utente (tramite un semplice questionario a fine prenotazione) di almeno 8/10.

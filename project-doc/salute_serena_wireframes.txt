@@ -1,0 +1,53 @@
+### **Wireframes di "Salute Serena" (Flusso di Prenotazione)**
+
+**Schermata 1: Avvio e Benvenuto**
+
+*   **Layout:** Molto pulito, sfondo bianco.
+*   **Centro della pagina:** Un grande logo rassicurante di "Salute Serena".
+*   **Sotto il logo:** Testo grande e leggibile: "Benvenuto. Prenota le tue visite in modo semplice e sicuro."
+*   **In basso:** Un unico, grande pulsante a tutto schermo con la scritta "**INIZIA**" e un'icona "+".
+*   **Barra di navigazione in fondo (fissa per tutta l'app):**
+    *   Icona "Prenota" (+) - Selezionata di default.
+    *   Icona "I Miei Appuntamenti" (Calendario).
+    *   Icona "Aiuto" (?).
+
+**Schermata 2: Scansione Tessera Sanitaria**
+
+*   **Testo in alto:** "Passo 1 di 4: Riconoscimento"
+*   **Centro della pagina:** Un riquadro che simula la fotocamera. Al centro, la sagoma di una tessera sanitaria.
+*   **Testo sotto il riquadro:** "Per iniziare, inquadra il codice a barre sul retro della tua tessera sanitaria."
+*   **Pulsante alternativo in basso:** Un link di testo piccolo: "Non riesci a inquadrare? Inserisci il tuo codice fiscale." (Questo apre una schermata per la digitazione manuale, come piano B).
+
+**Schermata 3: Scansione Ricetta**
+
+*   **Testo in alto:** "Passo 2 di 4: La tua ricetta"
+*   **Messaggio di saluto:** "Ciao Franco!" (L'app ha riconosciuto l'utente).
+*   **Centro della pagina:** Di nuovo il riquadro della fotocamera, questa volta con la sagoma di un foglio.
+*   **Testo sotto il riquadro:** "Ora inquadra il codice a barre (quello lungo) sulla ricetta del medico."
+*   **Pulsante alternativo:** "Preferisci inserire i dati a mano?"
+
+**Schermata 4: Scelta Data e Ora**
+
+*   **Testo in alto:** "Passo 3 di 4: Scegli quando"
+*   **Nome della visita:** "Stai prenotando: **Visita Cardiologica**"
+*   **Sotto:** Un calendario a griglia con i giorni del mese. I giorni non disponibili sono in grigio chiaro. I giorni disponibili sono in nero, ben leggibili. L'utente tocca il giorno desiderato.
+*   **Dopo la selezione del giorno:** Appaiono due grandi pulsanti: "**MATTINA**" e "**POMERIGGIO**".
+*   **Dopo la selezione della fascia oraria:** Appare un elenco di pulsanti con gli orari disponibili (es. "9:30", "10:00", "10:30").
+
+**Schermata 5: Riepilogo e Conferma**
+
+*   **Testo in alto:** "Passo 4 di 4: Controlla e conferma"
+*   **Layout a blocchi, con icone:**
+    *   Icona "Medico": **Visita Cardiologica**
+    *   Icona "Calendario": **Martedì 25 Novembre**
+    *   Icona "Orologio": **Ore 10:30**
+    *   Icona "Luogo": **Ospedale Bellaria, Edificio A, 2° piano**
+*   **In basso:** Un grande pulsante verde a tutto schermo: "**CONFERMA LA PRENOTAZIONE**".
+*   **Sotto il pulsante verde:** Un pulsante più piccolo, grigio: "Indietro, voglio modificare".
+
+**Schermata 6: Prenotazione Riuscita**
+
+*   **Centro della pagina:** Una grande spunta verde (✔) animata.
+*   **Testo grande:** "**Fatto! La tua visita è confermata.**"
+*   **Testo di rassicurazione:** "Troverai un riepilogo nella sezione 'I Miei Appuntamenti'. Ti invieremo un SMS di promemoria due giorni prima della visita."
+*   **In basso:** Un unico pulsante: "**TORNA ALLA HOME**".

@@ -1,0 +1,24 @@
+### **Architettura dell'Informazione di "Salute Serena"**
+
+L'applicazione avrà una **navigazione principale a 3 sezioni**, rappresentate da icone grandi e chiare in fondo alla schermata:
+
+1.  **Prenota (Icona: un grande "+")**
+    *   È la funzione principale, il cuore dell'app.
+    *   Avvia direttamente il flusso di prenotazione guidata che abbiamo descritto nello scenario "After" (scansione tessera, scansione ricetta, scelta data/ora, conferma).
+    *   Questa è la schermata che si apre di default all'avvio dell'app, per andare dritti al punto.
+
+2.  **I Miei Appuntamenti (Icona: un calendario)**
+    *   Mostra un elenco semplice e chiaro delle visite future.
+    *   Per ogni visita, visualizza:
+        *   Nome della visita (es. "Visita Cardiologica")
+        *   Data e ora
+        *   Luogo (con un link a Google Maps per i familiari più tecnologici)
+    *   Da qui si può anche **disdire** un appuntamento con un processo guidato altrettanto semplice.
+
+3.  **Aiuto (Icona: un punto di domanda)**
+    *   Una sezione pensata per risolvere i dubbi nel modo più semplice possibile.
+    *   **NON** una classica FAQ piena di testo.
+    *   Contiene:
+        *   Un pulsante "**Chiama il supporto**" che fa partire una telefonata a un numero dedicato (diverso dal CUP tradizionale, magari con operatori formati per assistere gli utenti dell'app).
+        *   Brevi **video tutorial** (massimo 30 secondi) che mostrano visivamente come si fa una prenotazione o come si disdice.
+        *   Possibilità di attivare la **modalità "delega"** per consentire a un familiare di accedere.

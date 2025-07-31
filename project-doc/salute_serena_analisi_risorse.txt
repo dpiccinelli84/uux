@@ -1,0 +1,36 @@
+**Parte 1: Analisi del sistema attuale ("Before") - cupweb.it**
+
+1.  **Impatto Visivo e Linguaggio:**
+    *   La pagina è molto istituzionale e un po' spoglia. Usa un linguaggio tecnico: "SSN", "Libera Professione", "Codice d'accesso temporaneo".
+    *   **Per "L'Isolato Prudente":** Questi termini sono arabo. "SSN" potrebbe essere intuito, ma "Libera Professione" è ambiguo. La mancanza di un messaggio di benvenuto o di una guida visiva è disorientante.
+    *   **Per "Il Nonno Connesso":** Anche per lui, che magari ha più familiarità con il web, il linguaggio è freddo e burocratico. Non c'è nulla che lo inviti a entrare o che lo rassicuri.
+
+2.  **La Barriera all'Ingresso: l'Autenticazione**
+    *   Il sito richiede obbligatoriamente l'accesso con **SPID** o **CIE**.
+    *   **Per "L'Isolato Prudente":** Questo è un muro invalicabile. Non ha SPID, probabilmente non sa nemmeno cosa sia. Qui il suo tentativo di prenotazione finisce ancora prima di iniziare.
+    *   **Per "Il Nonno Connesso":** Potrebbe avere lo SPID (magari attivato dal figlio per il bonus TV), ma non lo usa mai. Non ricorda la password, non sa dove trovarla. L'idea di dover affrontare una procedura di recupero password è già abbastanza per farlo desistere e delegare.
+
+3.  **Mancanza di Aiuto e Guida:**
+    *   Non c'è un numero di telefono ben visibile per chi ha difficoltà.
+    *   Non c'è un video tutorial o una guida illustrata "passo-passo".
+    *   Manca un messaggio rassicurante del tipo: "Non preoccuparti, ti guideremo noi" o "Hai bisogno di aiuto? Clicca qui".
+
+**In Sintesi (il problema da risolvere):**
+
+L'attuale sistema CUPWeb è progettato per chi è già digitalmente autonomo. Dà per scontato che l'utente sappia cosa sia lo SPID, che lo abbia e che lo sappia usare. **Esclude completamente il nostro primo segmento e respinge il secondo al primo ostacolo.**
+
+---
+
+**Parte 2: Analisi delle risorse di ispirazione ("After")**
+
+*   **Da un'app di Home Banking Semplice:**
+    *   **Accesso Facilitato:** Oltre a SPID, potremmo pensare a un sistema di "riconoscimento" più semplice per il primo accesso, magari tramite codice fiscale e un codice temporaneo inviato via SMS (più familiare per chi usa il telefono).
+    *   **Sicurezza Percepita:** Messaggi chiari come "Stai operando in un'area sicura" e icone con lucchetti possono aumentare la fiducia.
+
+*   **Da un'app di Food Delivery:**
+    *   **Flusso Lineare:** Un passo alla volta. "1. Scegli la visita", "2. Scegli la data", "3. Riepilogo e conferma". Mai troppe informazioni tutte insieme.
+    *   **Barra di Avanzamento:** Vedere a che punto del processo ci si trova (es. "Sei al passo 2 di 4") riduce l'ansia e dà un senso di controllo.
+
+*   **Da WhatsApp (l'app che "Il Nonno Connesso" già ama):**
+    *   **Interfaccia Conversazionale:** Potremmo immaginare un "assistente virtuale" che guida l'utente con domande semplici, come in una chat: "Ciao! Che visita devi prenotare?".
+    *   **Uso di Icone Familiari:** Icone grandi e riconoscibili (un calendario per la data, un orologio per l'ora) invece di solo testo.

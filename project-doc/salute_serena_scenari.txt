@@ -1,0 +1,33 @@
+### **Scenario 1: L'Esperienza Attuale (il "Before")**
+
+**Contesto:** È martedì mattina. Franco è in cucina, ha appena finito di leggere il giornale. Prende il suo smartphone e la ricetta rossa del medico. Si sente determinato.
+
+1.  **Ricerca:** Apre Google e cerca "prenotare visita ASL Bologna". Il primo risultato è "CUPWeb". Clicca.
+2.  **Primo Impatto:** La pagina è piena di scritte e loghi. Franco si sente un po' perso. Vede un grosso pulsante "Accedi con SPID/CIE".
+3.  **Il Muro dello SPID:** Franco sa di avere lo SPID, ma non ricorda la password. Prova quella che usa per sbloccare il telefono, ma non funziona. Vede un link "Hai dimenticato la password?". Clicca, ma la pagina che si apre gli chiede il suo "codice utente" e altre informazioni che non sa dove trovare.
+4.  **Frustrazione:** Sospira. La sua determinazione inizia a vacillare. Si sente già un po' stupido. "Perché deve essere così difficile?".
+5.  **Tentativo Alternativo:** Torna indietro e cerca un numero di telefono. Lo trova in fondo alla pagina, scritto in piccolo. Chiama il CUP telefonico.
+6.  **L'Attesa:** Una voce registrata gli dice: "Tutti gli operatori sono momentaneamente occupati. La sua posizione in coda è la numero 23".
+7.  **La Sconfitta:** Dopo 15 minuti di attesa con la musichetta, Franco riattacca. È frustrato e deluso. Prende il telefono e scrive un messaggio su WhatsApp a suo figlio Marco: *"Ciao Marco, quando hai un attimo mi prenoti una visita? Ti mando la foto della ricetta. Scusa il disturbo."*
+
+**Risultato:** Obiettivo fallito. Franco non è riuscito a prenotare da solo, la sua autostima è diminuita e ha dovuto delegare il compito, sentendosi un peso.
+
+---
+
+### **Scenario 2: L'Esperienza con "Salute Serena" (l'"After")**
+
+**Contesto:** Stessa situazione, ma questa volta Franco apre l'app "Salute Serena" che suo figlio gli ha installato.
+
+1.  **Benvenuto Rassicurante:** L'app si apre con una schermata di benvenuto. Scritte grandi, un solo pulsante: "**Inizia la tua prenotazione**". Sotto, una piccola scritta: "Siamo qui per aiutarti, passo dopo passo".
+2.  **Accesso Semplificato:** L'app chiede: "**Inquadra il codice a barre della tua tessera sanitaria**". Franco gira la tessera, inquadra il codice come se facesse una foto. L'app lo riconosce: "**Ciao Franco!**". Non ha dovuto digitare nulla.
+3.  **Ricetta Intelligente:** La schermata successiva dice: "**Ora inquadra il codice sulla ricetta del medico**". Franco inquadra il QR code sulla ricetta. L'app compila tutto in automatico e mostra: "**Stai prenotando una: Visita Cardiologica di Controllo. È corretto?**" con due grossi pulsanti: "Sì, è corretto" e "No, riprova". Franco preme "Sì".
+4.  **Scelta Guidata della Data:** Un calendario con scritte grandi mostra i giorni disponibili. Franco sceglie il giorno. Poi l'app mostra gli orari: "Mattina" o "Pomeriggio". Franco sceglie "Mattina" e poi l'orario esatto. Ogni scelta è su una schermata diversa, semplice.
+5.  **Riepilogo Chiaro:** Una schermata finale riassume tutto con caratteri cubitali:
+    *   **COSA:** Visita Cardiologica
+    *   **DOVE:** Ospedale Bellaria, 2° piano
+    *   **QUANDO:** Martedì 25 Novembre, ore 10:30
+    *   Un grosso pulsante verde: "**Conferma la tua prenotazione**".
+6.  **Conferma e Tranquillità:** Franco preme "Conferma". L'app mostra una spunta verde gigante e il messaggio: "**Fatto! La tua visita è prenotata.** Riceverai un promemoria due giorni prima. Puoi trovare la prenotazione nella sezione 'I miei appuntamenti'".
+7.  **Orgoglio e Autonomia:** Franco sorride. Ce l'ha fatta. Da solo. In meno di due minuti. Manda un messaggio a Marco: *"Ciao Marco, tutto bene. Visita prenotata! Buona giornata."*
+
+**Risultato:** Obiettivo raggiunto. Franco ha prenotato in autonomia, si sente competente e orgoglioso. L'esperienza è stata positiva e rassicurante.

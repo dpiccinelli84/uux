@@ -1,0 +1,36 @@
+### **Segmento 1: Gli Isolati Prudenti**
+
+*   **Chi Sono (Dati Demografici e Sociali):**
+    *   **Età:** 75-85 anni.
+    *   **Residenza:** Vivono in piccoli comuni o frazioni dell'Appennino Bolognese (es. Vergato, Gaggio Montano) o in aree rurali della pianura con scarsi collegamenti di trasporto pubblico.
+    *   **Stato Sociale:** Vedovi/e o single, vivono da soli. I figli, se presenti, abitano lontano (in città o addirittura in un'altra regione) e hanno impegni lavorativi.
+    *   **Risorse:** Hanno una pensione medio-bassa. Non possono permettersi facilmente taxi o servizi di assistenza a pagamento per ogni necessità.
+
+*   **La Loro "Riluttanza" (Competenze e Atteggiamento):**
+    *   **Competenza Digitale:** Bassissima o nulla. Non hanno un computer. Possiedono un vecchio cellulare a tasti o, al massimo, uno smartphone base regalato dai figli, che usano solo per telefonare. Non sanno cosa sia un'app, né come si installi.
+    *   **Atteggiamento Psicologico:** Sono molto diffidenti verso la tecnologia. La percepiscono come un mondo estraneo, complicato e inaffidabile. Le loro paure principali sono:
+        1.  **Paura di Sbagliare:** "Se premo il pulsante sbagliato e cancello tutto?"
+        2.  **Paura di Essere Truffati:** "Ho sentito al telegiornale che rubano i dati su internet."
+        3.  **Paura di Non Essere Capaci:** Un senso di inadeguatezza che li porta a dire "Non sono cose per me, alla mia età".
+    *   **Comportamento Attuale:** Per prenotare una visita, si affidano a un vicino di casa gentile, aspettano la visita mensile del figlio, o tentano di telefonare al CUP (passando ore in attesa). Nei casi più urgenti, chiedono un passaggio per andare di persona allo sportello, un'esperienza che trovano faticosa e stressante.
+
+*   **Il Loro Obiettivo (La Necessità Latente):**
+    *   Il loro bisogno primario è **curarsi e rimanere autonomi** il più a lungo possibile nella propria casa. Vorrebbero un modo per prenotare le visite mediche senza dover chiedere aiuto e senza l'ansia di sbagliare.
+
+---
+
+### **Segmento 2: I Nonni Connessi (ma Insicuri)**
+
+*   **Chi Sono (Dati Demografici e Sociali):**
+    *   **Età:** 70-78 anni.
+    *   **Residenza:** Vivono in aree urbane o suburbane di Bologna. Sono più vicini ai servizi, ma trovano comunque faticoso spostarsi a causa del traffico, del parcheggio o di piccoli acciacchi.
+    *   **Stato Sociale:** Tipicamente in coppia. Hanno una vita sociale più attiva rispetto agli "Isolati Prudenti" e vedono figli e nipoti regolarmente (es. nel weekend).
+    *   **Risorse:** Pensione media. Sono attenti alle spese ma non in difficoltà economica.
+
+*   **La Loro "Riluttanza" (Competenze e Atteggiamento):**
+    *   **Competenza Digitale:** Media-bassa. Possiedono uno smartphone che usano con una certa disinvoltura per poche, specifiche attività: **WhatsApp** per mandare foto e videochiamare i nipoti, **Google** per cercare informazioni semplici (es. "orari apertura farmacia"), forse l'app della loro banca per controllare il saldo.
+    *   **Atteggiamento Psicologico:** Sono curiosi ma anche molto insicuri. La loro fiducia si basa sulla ripetizione e sulla familiarità. WhatsApp è facile perché lo usano tutti i giorni. Il sito dell'ASL, invece, è un territorio sconosciuto e spaventoso. La loro "riluttanza" non è un rifiuto totale, ma un'**ansia da prestazione** di fronte a interfacce non familiari. Il loro pensiero è: "So usare il telefono, ma questo sito è troppo complicato. Se sbaglio qualcosa con la mia salute?".
+    *   **Comportamento Attuale:** Provano a usare il sito del CUP, ma si arenano quasi subito. Si trovano di fronte a un linguaggio che non capiscono ("prestazione SSN", "codice impegnativa") e a un design caotico. Dopo un tentativo fallito, si scoraggiano e delegano al figlio/a ("Quando passi, mi prenoti questa visita?"), oppure ripiegano sul telefono, con le solite lunghe attese.
+
+*   **Il Loro Obiettivo (La Necessità Latente):**
+    *   Vorrebbero essere **indipendenti anche nelle commissioni digitali**, così come lo sono nella vita di tutti i giorni. Il loro desiderio è poter dire: "Ce l'ho fatta da solo", provando un senso di orgoglio e competenza.
