@@ -1,0 +1,44 @@
+# Questionario Post-Test - Salute Serena
+---
+
+**ID Utente:** (es. Utente 1, Utente 2...)
+
+Grazie ancora per la sua partecipazione. Le chiediamo di rispondere ad alcune brevi domande sulla sua esperienza.
+
+---
+
+### **Parte 1: La sua opinione**
+
+Per favore, indichi quanto è d'accordo con le seguenti affermazioni, dando un voto da 1 a 5, dove:
+**1 = Per niente d'accordo**
+**5 = Pienamente d'accordo**
+
+1.  **L'applicazione è stata facile da usare.**
+    (1) --- (2) --- (3) --- (4) --- (5)
+
+2.  **Mi sono sentito/a sicuro/a durante la prenotazione.**
+    (1) --- (2) --- (3) --- (4) --- (5)
+
+3.  **Userei volentieri questa applicazione in futuro per prenotare le mie visite.**
+    (1) --- (2) --- (3) --- (4) --- (5)
+
+---
+
+### **Parte 2: Domande aperte**
+
+Per favore, risponda liberamente.
+
+4.  **Qual è stata la cosa più facile o che le è piaciuta di più?**
+    ________________________________________________________________
+    ________________________________________________________________
+
+5.  **Qual è stata la cosa più difficile, confusa o frustrante?**
+    ________________________________________________________________
+    ________________________________________________________________
+
+6.  **Se potesse cambiare una cosa di questa applicazione, quale sarebbe?**
+    ________________________________________________________________
+    ________________________________________________________________
+
+---
+**Grazie per il suo prezioso contributo!**

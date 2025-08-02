@@ -1,0 +1,41 @@
+# Scheda di Osservazione - Test Salute Serena
+---
+
+**ID Utente:** (es. Utente 1, Utente 2...)
+**Data:**
+**Moderatore:**
+
+---
+
+### **Metriche Principali**
+
+*   **Esito del Compito:**
+    *   [ ] **Successo:** L'utente ha completato la prenotazione da solo.
+    *   [ ] **Successo con aiuto:** L'utente ha completato la prenotazione dopo un intervento del moderatore.
+    *   [ ] **Fallimento:** L'utente non è riuscito a completare la prenotazione.
+
+*   **Tempo Totale Impiegato:** ______ minuti
+
+*   **Numero di Errori/Incertezze:** (Quante volte l'utente ha toccato un pulsante sbagliato, è tornato indietro confuso, o ha espresso frustrazione) ______
+
+---
+
+### **Log delle Osservazioni**
+
+| Passo / Schermata | Azione dell'Utente e Percorso | Osservazioni, Problemi Riscontrati, Citazioni dell'Utente |
+| :--- | :--- | :--- |
+| **Schermata 1: Benvenuto** | | |
+| **Schermata 2: Scansione TS** | | |
+| **Schermata 3: Scansione Ricetta** | | |
+| **Schermata 4: Scelta Data/Ora** | | |
+| **Schermata 5: Riepilogo** | | |
+| **Schermata 6: Conferma** | | |
+| **Altro...** | | |
+
+---
+
+### **Riepilogo Problemi di Usabilità Principali**
+
+1.  **Problema 1:**
+2.  **Problema 2:**
+3.  **Problema 3:**

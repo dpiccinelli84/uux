@@ -1,0 +1,38 @@
+# Protocollo Test di Usabilità - Salute Serena
+---
+
+### **1. Benvenuto e Introduzione (2 minuti)**
+
+"Buongiorno e grazie mille per il tempo che ci dedica oggi. Mi chiamo [Il tuo nome] e stiamo lavorando per migliorare un'applicazione per prenotare le visite mediche."
+
+"Oggi le chiederò di provare a usare questa applicazione sul mio telefono. È importante che sappia che **non stiamo mettendo alla prova lei, ma l'applicazione**. Non ci sono risposte giuste o sbagliate, e non può commettere errori. Anzi, ogni sua incertezza o difficoltà è un'informazione preziosissima per noi, perché ci aiuta a capire dove dobbiamo migliorare."
+
+"Durante il test, la incoraggerò a 'pensare ad alta voce', cioè a descrivere cosa sta guardando, cosa sta cercando di fare e cosa si aspetta che succeda. Questo ci aiuta moltissimo a capire il suo punto di vista."
+
+"Il test durerà circa 15-20 minuti. Ha qualche domanda prima di iniziare?"
+
+---
+
+### **2. Contesto e Compito (1 minuto)**
+
+"Bene. Immagini questa situazione: il suo medico le ha appena consegnato questa ricetta medica (mostrare la finta ricetta) e le ha detto di prenotare la visita specialistica indicata."
+
+"Il suo compito è usare l'applicazione che le mostro per **prenotare questa visita**."
+
+"Può iniziare quando si sente pronto/a."
+
+---
+
+### **3. Svolgimento del Test (10-15 minuti)**
+
+*(Il moderatore osserva, prende appunti sulla Scheda di Osservazione e interviene solo se l'utente è completamente bloccato o chiede aiuto diretto. Incoraggiare a pensare ad alta voce con domande neutre come "Cosa sta pensando ora?" o "Cosa si aspettava che succedesse?").*
+
+---
+
+### **4. Conclusione e Passaggio al Questionario (2 minuti)**
+
+"Perfetto, abbiamo finito con l'attività. Grazie mille, è stato/a di grande aiuto."
+
+"Ora, per concludere, le vorrei chiedere di compilare un brevissimo questionario sulla sua esperienza. Ci vorranno solo due minuti."
+
+*(Consegnare la Scheda "Questionario Post-Test").*

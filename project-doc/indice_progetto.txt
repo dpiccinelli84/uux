@@ -1,0 +1,65 @@
+# Indice del Documento di Progetto: Salute Serena
+
+---
+
+### **Introduzione**
+*   **1.1. Il Progetto FRTR (From Reluctance To Routine):** Breve riepilogo del brief accademico.
+*   **1.2. La Nostra Risposta - "Salute Serena":** Introduzione alla nostra soluzione per la prenotazione di visite mediche per utenti anziani per conto dell'ASL di Bologna.
+
+---
+
+### **Parte 1: Analisi del Contesto e Ricerca (Fasi A e B)**
+*   **Capitolo 2: Il Cliente e gli Obiettivi di Business**
+    *   2.1. L'ASL di Bologna come cliente.
+    *   2.2. Obiettivi del prodotto e metriche di successo (riduzione costi, aumento efficienza).
+*   **Capitolo 3: Il Pubblico: Comprendere la Riluttanza**
+    *   3.1. Segmentazione del pubblico: "Gli Isolati Prudenti" e "I Nonni Connessi".
+    *   3.2. La nostra Persona di riferimento: Franco Verdi, 72 anni.
+*   **Capitolo 4: L'Esperienza Attuale: Analisi del "Before"**
+    *   4.1. Analisi delle risorse esistenti (il sito CUPWeb).
+    *   4.2. Scenario d'uso "Before": la frustrazione di Franco.
+
+---
+
+### **Parte 2: Progettazione della Soluzione "Salute Serena" (Fase C)**
+*   **Capitolo 5: Architettura e Flusso di Interazione**
+    *   5.1. L'architettura informativa a 3 sezioni (Prenota, Appuntamenti, Aiuto).
+    *   5.2. Ispirazioni e scelte di design (da app di banking e delivery).
+*   **Capitolo 6: Wireframes e Prototipo**
+    *   6.1. Flusso di prenotazione passo-passo (con screenshot dell'app).
+        *   Schermata 1: Benvenuto.
+        *   Schermata 2: Scansione Tessera Sanitaria.
+        *   Schermata 3: Scansione Ricetta.
+        *   Schermata 4: Scelta Data e Ora.
+        *   Schermata 5: Riepilogo e Conferma.
+        *   Schermata 6: Prenotazione Riuscita.
+*   **Capitolo 7: Scenario d'uso "After"**
+    *   7.1. Il successo di Franco con "Salute Serena".
+    *   7.2. Confronto visivo "Before/After" (screenshot affiancati di CUPWeb e Salute Serena).
+
+---
+
+### **Parte 3: Valutazione del Design (Fase D)**
+*   **Capitolo 8: Piano di Valutazione**
+    *   8.1. Metodologia di test (Ispezione euristica e Test di usabilità con utenti reali).
+    *   8.2. Metriche di successo definite (Tasso di successo, tempo, errori, soddisfazione).
+*   **Capitolo 9: Esecuzione dei Test di Usabilità su "Salute Serena" (DA COMPILARE)**
+    *   9.1. Reclutamento e profilo dei partecipanti (es. 4 utenti over 70, anonimizzati).
+    *   9.2. Svolgimento del test: il compito assegnato.
+    *   9.3. Risultati Quantitativi (Tabella con tasso di successo, tempo medio, errori comuni).
+    *   9.4. Risultati Qualitativi (Citazioni e feedback diretti degli utenti).
+    *   9.5. Analisi dei risultati e problemi emersi.
+
+---
+
+### **Conclusioni**
+*   **10.1. Riepilogo dei Risultati:** Il design di "Salute Serena" ha raggiunto gli obiettivi?
+*   **10.2. Impatto e Persuasività:** Perché l'ASL di Bologna dovrebbe investire in questo progetto.
+*   **10.3. Raccomandazioni Finali e Sviluppi Futuri.**
+
+---
+
+### **Appendice (Contenuto da allegare separatamente in una cartella)**
+*   File Excel con analisi euristica.
+*   Protocolli di test completi.
+*   Dati grezzi dei questionari di soddisfazione.
