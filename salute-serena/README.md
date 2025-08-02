@@ -1,12 +1,58 @@
-# React + Vite
+# Salute Serena
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Questo progetto è un prototipo di applicazione web, sviluppato nell'ambito del corso UUXD 2025, che mira a semplificare il processo di prenotazione di visite mediche per un pubblico di utenti anziani, spesso a disagio con la tecnologia.
 
-Currently, two official plugins are available:
+L'obiettivo è trasformare un'esperienza potenzialmente frustrante in un processo guidato, semplice e rassicurante, riducendo la necessità di digitazione attraverso la scansione di tessere sanitarie e ricette mediche.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologie Utilizzate
 
-## Expanding the ESLint configuration
+- **Framework:** React
+- **Build Tool:** Vite
+- **Hosting:** Netlify
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Sviluppo in Locale
+
+Per avviare l'applicazione sul proprio computer, seguire questi passaggi dalla cartella `salute-serena`:
+
+1.  **Installare le dipendenze** (necessario solo la prima volta):
+    ```bash
+    npm install
+    ```
+
+2.  **Avviare il server di sviluppo:**
+    ```bash
+    npm run dev
+    ```
+
+L'applicazione sarà visibile nel browser all'indirizzo `http://localhost:5173` (o un'altra porta indicata nel terminale).
+
+---
+
+## Pubblicazione Online (Deploy su Netlify)
+
+Il prototipo è ospitato su Netlify e può essere aggiornato seguendo questa procedura.
+
+### Informazioni del Sito Netlify
+
+- **Nome del Sito:** `salute-serena-dave-project`
+- **URL di Produzione:** [https://salute-serena-dave-project.netlify.app](https://salute-serena-dave-project.netlify.app)
+- **ID del Sito:** `700c520d-9fed-40cf-ad2f-d1f9a8e4c791`
+
+### Procedura di Deploy
+
+1.  **Creare la Build di Produzione:**
+    Questo comando genera una versione ottimizzata del sito nella cartella `dist/`.
+    ```bash
+    npm run build
+    ```
+
+2.  **Pubblicare la Nuova Versione:**
+    Questo comando carica il contenuto della cartella `dist/` su Netlify. Per evitare problemi di autenticazione o di collegamento del progetto, si consiglia di usare il metodo con l'ID del sito, che è il più robusto.
+
+    ```bash
+    npx netlify deploy --prod --dir=dist --site=700c520d-9fed-40cf-ad2f-d1f9a8e4c791
+    ```
+
+Al termine del comando, la nuova versione sarà immediatamente disponibile all'URL di produzione.
