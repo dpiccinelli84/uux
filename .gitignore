@@ -1,0 +1,28 @@
+# Local Netlify folder
+.netlify
+
+# Salute Serena sub-project
+salute-serena/node_modules
+salute-serena/dist
+salute-serena/dist-ssr
+salute-serena/*.local
+
+# Logs
+salute-serena/logs
+salute-serena/*.log
+salute-serena/npm-debug.log*
+salute-serena/yarn-debug.log*
+salute-serena/yarn-error.log*
+salute-serena/pnpm-debug.log*
+salute-serena/lerna-debug.log*
+
+# Editor directories and files
+salute-serena/.vscode/*
+!salute-serena/.vscode/extensions.json
+salute-serena/.idea
+salute-serena/.DS_Store
+salute-serena/*.suo
+salute-serena/*.ntvs*
+salute-serena/*.njsproj
+salute-serena/*.sln
+salute-serena/*.sw?
