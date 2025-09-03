@@ -1,0 +1,170 @@
+/* Stile generale del contenitore dell'app */
+.container {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Occupa tutta l'altezza dello schermo */
+  text-align: center;
+  background-color: #fff; /* FORZA lo sfondo bianco */
+}
+
+/* Intestazione (header) */
+.header {
+  padding: 0.5rem; /* Padding ridotto per un header più compatto */
+  border-bottom: 1px solid #ccc;
+  flex-shrink: 0; /* Impedisce all'header di restringersi */
+  position: fixed; /* Manteniamo l'header fisso */
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  z-index: 1001;
+}
+
+.header-logo {
+  height: 60px; /* Altezza ridotta per il logo, adatta a mobile */
+  width: auto; /* Larghezza automatica per mantenere le proporzioni */
+}
+
+/* Contenuto principale */
+.main-content {
+  flex-grow: 1; /* Occupa tutto lo spazio disponibile */
+  overflow-y: auto; /* !!! CHIAVE: Rende scorrevole solo quest'area se necessario !!! */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Centra verticalmente */
+  align-items: center; /* Centra orizzontalmente */
+  padding: 1rem; /* Padding ridotto per compattare */
+  padding-top: 90px; /* Aggiungiamo di nuovo lo spazio per l'header fisso */
+}
+
+.main-content h2 {
+  font-size: 2.2rem; /* Leggermente più piccolo */
+  margin-bottom: 0.5rem; /* Margine ridotto */
+}
+
+.main-content p {
+  font-size: 1.3rem; /* Leggermente più piccolo */
+  color: #666;
+  margin-bottom: 1.5rem; /* Margine ridotto */
+}
+
+/* Pulsante di avvio */
+.start-button {
+  font-size: 1.8rem; /* Leggermente più piccolo */
+  padding: 1rem 2rem; /* Padding ridotto */
+  border: none;
+  background-color: #007bff; /* Un blu amichevole */
+  color: white;
+  border-radius: 10px; /* Angoli arrotondati */
+  cursor: pointer;
+}
+
+/* Navigazione in basso */
+.footer-nav {
+  display: flex;
+  justify-content: space-around; /* Spazio equo tra gli elementi */
+  padding: 1rem 0;
+  border-top: 1px solid #ccc;
+  background-color: #f8f8f8;
+}
+
+.nav-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #888;
+}
+
+.nav-item.active {
+  color: #007bff; /* Colore per l'elemento attivo */
+}
+
+.nav-item span {
+  font-size: 2rem; /* Icone grandi */
+}
+
+.nav-item p {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+}
+
+/* Stile specifico per il pulsante Annulla nella navigazione */
+.cancel-nav-item {
+  color: #dc3545; /* Rosso pericolo */
+  font-weight: bold; /* Lo rendiamo anche un po' più visibile */
+}
+
+
+/* Stili per la pagina di riepilogo (Summary) */
+.summary-container {
+  width: 100%;
+  padding: 1rem;
+}
+
+.summary-block {
+  display: flex;
+  align-items: center;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  padding: 1rem; /* Padding ridotto */
+  margin-bottom: 0.5rem; /* Margine ridotto */
+  font-size: 1.3rem; /* Leggermente più piccolo */
+}
+
+.summary-icon {
+  font-size: 2rem; /* Leggermente più piccolo */
+  margin-right: 1rem; /* Margine ridotto */
+}
+
+.confirm-button {
+  width: 100%;
+  padding: 1.2rem; /* Padding ridotto */
+  font-size: 1.5rem; /* Leggermente più piccolo */
+  background-color: #28a745; /* Verde conferma */
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 1.5rem; /* Margine ridotto */
+}
+
+.back-button {
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.2rem;
+  background-color: #6c757d; /* Grigio secondario */
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+/* Stili per la card dell'appuntamento */
+.appointment-card {
+  border: 1px solid #ccc;
+  padding: 1.5rem;
+  border-radius: 10px;
+  margin-top: 1rem;
+  text-align: left;
+  width: 100%;
+  max-width: 600px; /* Larghezza massima per leggibilità */
+}
+
+.appointment-card p {
+  font-size: 1.3rem;
+  margin-bottom: 0.8rem;
+}
+
+.cancel-visit-button {
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.2rem;
+  background-color: #dc3545; /* Stesso rosso del bottone annulla principale */
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 1rem;
+}
